@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @therealGerald420
-- 👀 I’m interested in ...Cybersecurity and Python
-- 🌱 I’m currently studying Bsc_IT Software Engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ross.fitzgerald03@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...if you look left and right befor crossing the street you will probably survive 
+This is a repository i have created for my CV it includes a tkinter GUI and a simple inventory management system based on sqlite. 
+To run these projects ensure you have the liabarys installed.  
+Run 
+import sqlite3
+print(sqlite3.version) # to ensure you have sqlite installed on your machine.
+tkinter is part of the python standard libary so the tax calculator GUI should be able to run without any pip installations.
+I will continue to add and update this repository with other projects outside of python. 
 
-<!---
-therealGerald420/therealGerald420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
