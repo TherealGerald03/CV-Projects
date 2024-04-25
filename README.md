@@ -4,5 +4,6 @@ Run
 import sqlite3
 print(sqlite3.version) # to ensure you have sqlite installed on your machine.
 tkinter is part of the python standard libary so the tax calculator GUI should be able to run without any pip installations.
+The webscaper makes use of the beautifulsoup libary  
 I will continue to add and update this repository with other projects outside of python. 
 
