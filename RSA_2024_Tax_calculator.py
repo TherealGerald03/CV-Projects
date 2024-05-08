@@ -24,6 +24,7 @@ def on_calculate():
     income = float(income_entry.get())
     period = period_combo.get()
     # Adjusting for the period to calculate the annual income correctly
+    # Doesnt matter what time period you select anual and monthy are both displayed 
     annual_income = income if period == 'Yearly' else income * 12
     annual_tax = calculate_tax(annual_income)
     monthly_tax = annual_tax / 12 if period == 'Monthly' else annual_tax / 12
